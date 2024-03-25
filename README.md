@@ -1,8 +1,31 @@
-# React + Vite
+# Avatar Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple avatar generator built with React. It allows users to generate avatars based on their input name and download them as PNG images.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Generate avatars based on input name.
+- Download avatars as PNG images.
+
+## Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone [<repository-url>](https://github.com/Zvki1/Avatar-Generator)https://github.com/Zvki1/Avatar-Generator
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd avatar-generator
+   
+3. Install dependencies:
+
+   ```bash
+   npm install  
+## Usage
+
+1. Start the development server:
+
+   ```bash
+   npm run dev
