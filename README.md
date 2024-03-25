@@ -12,7 +12,7 @@ This project is a simple avatar generator built with React. It allows users to g
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone [<repository-url>](https://github.com/Zvki1/Avatar-Generator)https://github.com/Zvki1/Avatar-Generator
+   git clone (https://github.com/Zvki1/Avatar-Generator)https://github.com/Zvki1/Avatar-Generator
 
 2. Navigate to the project directory:
 
