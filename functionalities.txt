@@ -1,0 +1,5 @@
+the application :
+-first generate random name to showcase the avatar
+-the user can type the name he wants
+-the avatar is changing while the user is typing the name
+-the user can donwload the avatar 
